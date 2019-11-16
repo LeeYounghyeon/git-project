@@ -1,6 +1,6 @@
 # Git 자주 사용하는 명령어 정리
 
-- 작성일 : 2019년 11월 16일
+- 작성일 : 2019년 11월 16
 
 ## 저장소 생성
 
@@ -24,4 +24,5 @@ git log --decorate=full --oneline --graph
 
 ```sh
 git checkout -b branch_name
+git branch -v //브랜치 확인
 ```
